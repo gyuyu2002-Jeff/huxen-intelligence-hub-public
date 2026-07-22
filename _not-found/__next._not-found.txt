@@ -2,4 +2,4 @@
 2:I[39756,["/huxen-intelligence-hub-public/_next/static/chunks/0dbhjjzl8qfwv.js"],"default"]
 3:I[37457,["/huxen-intelligence-hub-public/_next/static/chunks/0dbhjjzl8qfwv.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"8frMkGe0DAQotCeQ69BUt"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"xU9W4ErZIejMNljuC6S8X"}
