@@ -1,2 +1,2 @@
 :HL["/huxen-intelligence-hub-public/_next/static/chunks/06r4k0gdvgmcs.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"-T649txAjE90hHnbkzV5x"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"3m_nC6hAEIbfnofOMlXq6"}
